@@ -5,3 +5,5 @@ A python lottery checker, I made this to easily check winning lottery numbers, a
 It has lists, exception handling, fucntions, while loops, if loops,and  print statments all usefull for any new python user. 
 
 Will contiue to update and add comments to help visualize the code.
+
+lotto-web scarpes the web for either super lotto and mega millions
